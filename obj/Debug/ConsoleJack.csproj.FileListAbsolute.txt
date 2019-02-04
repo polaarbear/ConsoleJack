@@ -1,0 +1,11 @@
+D:\Visual Studio Projects\ConsoleJack\ConsoleJack\bin\Debug\ConsoleJack.exe.config
+D:\Visual Studio Projects\ConsoleJack\ConsoleJack\bin\Debug\ConsoleJack.exe
+D:\Visual Studio Projects\ConsoleJack\ConsoleJack\bin\Debug\ConsoleJack.pdb
+D:\Visual Studio Projects\ConsoleJack\ConsoleJack\obj\Debug\ConsoleJack.csprojAssemblyReference.cache
+D:\Visual Studio Projects\ConsoleJack\ConsoleJack\obj\Debug\ConsoleJack.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\ConsoleJack\ConsoleJack\obj\Debug\ConsoleJack.exe
+D:\Visual Studio Projects\ConsoleJack\ConsoleJack\obj\Debug\ConsoleJack.pdb
+D:\Visual Studio Projects\ConsoleJack\ConsoleJack\bin\Debug\ConsoleJack.exe.manifest
+D:\Visual Studio Projects\ConsoleJack\ConsoleJack\bin\Debug\ConsoleJack.application
+D:\Visual Studio Projects\ConsoleJack\ConsoleJack\obj\Debug\ConsoleJack.exe.manifest
+D:\Visual Studio Projects\ConsoleJack\ConsoleJack\obj\Debug\ConsoleJack.application
