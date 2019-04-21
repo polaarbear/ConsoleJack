@@ -1,6 +1,6 @@
 # ConsoleJack
 
-This is a very simple blackjack game written for the Windows Command prompt. Some work would need to be done, but with some proper refactoring and additional code it could be expanded to support a variety of card games using some of the pieces that are already here.  The design is definitely not perfect but this was my first project after not coding for a few years. This game was a means to get comfortable with all the functions of C# again and demonstrates my ability to implement several key Object-Oriented/C# features.
+This is a very simple blackjack game written for the Windows Command prompt. Some work would need to be done, but with some proper refactoring and additional code it could be expanded to support a variety of card games using some of the pieces that are already here.  The design is definitely not perfect but this was my first project after not coding for a few years. This game was a means to get comfortable with the C# and Visual Studio features again and demonstrates my ability to implement several key Object-Oriented concepts.
 
 ##Programming Constructs##
 
