@@ -1,6 +1,9 @@
 # ConsoleJack
 
-This is a very simple blackjack game written for the Windows Command prompt. Some work would need to be done, but with some proper refactoring and additional code it could be expanded to support a variety of card games using some of the pieces that are already here.  The design is definitely not perfect but this was my first project after not coding for a few years. This game was a means to get comfortable with the C# and Visual Studio features again and demonstrates my ability to implement several key Object-Oriented concepts.
+This is a very simple blackjack game written for the Windows Command prompt. Some work would need to be done, but with some proper refactoring and additional code it could be expanded to support a variety of card games using some of the pieces that are already here.  The design is definitely not perfect but this was my first project after not coding for a few years. This game was a means to get comfortable with the C# and Visual Studio features again and demonstrates my ability to implement several key Object-Oriented concepts.  The project uses suit values in which requires unicode support.  If the suit values do not display properly try changing your console font, not every font supports them.  This project should build just fine in any modern-ish version of Visual Studio, there are no outside libraries and I don't think there are any cutting-edge features.  It should run fine just about anywhere.
+
+##Object Oriented Programming##
+This project uses several classes.  Card objects are organized into a list within a Deck object.  The deck object has methods that allow the deck to be shuffled.  The shuffle process uses the Fisher-Yates shuffle algorithm and it works similar to sorting a list of objects.
 
 ##Programming Constructs##
 
@@ -20,4 +23,4 @@ The above-mentioned DeckOfCards is a simple example of inheritance.  The BlackJa
 
 ##Interfaces##
 
-There are a pair of simple interfaces in this project.  They were probably somewhat unnecessary but I wanted to make sure I knew how to implement them.  IGameTable and IDealer are the two examples here.  The idea behind IGameTable and IDealer is that games other than BlackJack could be later added to this project with the interfaces providing a template for certain functionality (such as displaying errors in user input, starting the game, drawing the game, etc.)  Because it is only BlackJack right now these interfaces never got fully expanded but I would like to come back at some point to build this functionality out further.
+There are a pair of simple interfaces in this project.  They were probably somewhat unnecessary but I wanted to make sure I knew how to implement them.  IGameTable and IDealer are the two examples here.  The idea behind IGameTable and IDealer is that games other than BlackJack could be later added to this project with the interfaces providing a template for certain functionality (dealers for different games might deal a different number of cards for example, and different game tables might host different numbers of players.
